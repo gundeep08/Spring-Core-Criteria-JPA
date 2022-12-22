@@ -1,0 +1,12 @@
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/entities/Author.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/FindAllBooksWithAuthorAndCategory.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/DeleteRecentlySavedBookWithAuthor.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/service/PublishingService.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/FindAllBooksWithAuthorAndCategoryByBookId.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/FindAllBooksWithoutAuthorAndCategory.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/service/PublishingServiceImpl.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/InsertBookAuthorToExistingCategory.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/entities/Category.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/FindAllBooksUsingNativeQuery.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/entities/Book.java
+/Users/ggumbe350/workspace/HSESummer2022/gundeep-assignment2-part1/src/main/java/com/books/publishing/FindAllBooksWithSameAuthor.java

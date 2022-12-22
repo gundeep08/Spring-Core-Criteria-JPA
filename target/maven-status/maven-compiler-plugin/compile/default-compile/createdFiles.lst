@@ -1,0 +1,12 @@
+com/books/publishing/FindAllBooksUsingNativeQuery.class
+com/books/publishing/FindAllBooksWithoutAuthorAndCategory.class
+com/books/publishing/InsertBookAuthorToExistingCategory.class
+com/books/publishing/entities/Book.class
+com/books/publishing/entities/Category.class
+com/books/publishing/FindAllBooksWithAuthorAndCategory.class
+com/books/publishing/FindAllBooksWithSameAuthor.class
+com/books/publishing/service/PublishingService.class
+com/books/publishing/FindAllBooksWithAuthorAndCategoryByBookId.class
+com/books/publishing/DeleteRecentlySavedBookWithAuthor.class
+com/books/publishing/service/PublishingServiceImpl.class
+com/books/publishing/entities/Author.class
